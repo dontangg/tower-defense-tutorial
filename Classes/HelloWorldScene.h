@@ -2,7 +2,7 @@
 #define __HELLOWORLD_SCENE_H__
 
 // Comment this line out to hide the debug drawing
-//#define DRAW_DEBUG_INFO
+#define DRAW_DEBUG_INFO
 
 #include "cocos2d.h"
 
